@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Career  
-2023/01 ~ 2023/11: Misys labraotry in Soongsil Univ.  
 2017/03 ~ 2024/02: Soongsil Univ.  
+2023/01 ~ 2023/11: Misys labraotry in Soongsil Univ.  
 2024/01 ~ 2024/02: Hyundai mobis SW Hackathon (Team 슝슝카)  
 ~ current: Studying C++ and i'm thinking about which field is i want to go. 
 
