@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 2024/11/21 ~ 2024/11/27: SSAFY [AGV - Multitap Management(Ballie Function)](https://github.com/AGVallie)<br>
 
 ## 🔭Stacks
-![ROS2](https://img.shields.io/badge/ros2-444444?style=flat&logo=ros)
-![Python](https://img.shields.io/badge/Python-444444?style=flat&logo=Python)
+![ROS2](https://img.shields.io/badge/ros2-444444?style=flat&logo=ros)\
 ![Docker](https://img.shields.io/badge/Docker-444444?style=flat&logo=Docker)
 ![C++](https://img.shields.io/badge/C++-444444?style=flat&logo=c%2B%2B)
-
+![Python](https://img.shields.io/badge/Python-444444?style=flat&logo=Python)
